@@ -4,8 +4,8 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 
 const core = [
-  { initials: "SK", name: "Sankalp", title: "Founder and systems builder", bio: "Turns ambitious grid ideas into circuits, backend contracts and pitch-ready demos." },
-  { initials: "AK", name: "Akarsh", title: "The Cheetah", bio: "The reliable last-minute builder who keeps delivery moving under pressure." },
+  { initials: "SK", name: "Sankalp", title: " Cofounder and systems builder", bio: "Turns ambitious grid ideas into circuits, backend contracts and pitch-ready demos." },
+  { initials: "AK", name: "Akarsh", title: "The Founder", bio: "Built Smart contracts and backend of the Project." },
   { initials: "AJ", name: "Abhishek", title: "Hardware Whisperer", bio: "Coaxes ESP32s, relays and batteries into reporting the truth about every watt." },
 ];
 
