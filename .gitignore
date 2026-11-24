@@ -27,6 +27,9 @@ frontend/dist/
 .env
 .env.local
 
+# Redis dumps
+*.rdb
+
 # IDEs
 .vscode/
 .idea/
